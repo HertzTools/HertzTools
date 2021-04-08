@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  I’m currently working: on Nukers,Massdms,Unfrienders,AccountNukers
-- You can Also Add me On Discord: 2hz / Braple#0135 Or 2hz#0135
+- <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/atom.svg" /> I’m currently working: on Nukers,Massdms,Unfrienders,AccountNukers
+- <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/discord.svg" /> You can Also Add me On Discord: 2hz / Braple#0135 Or 2hz#0135
 ### Learning: <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/python.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" /> <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/go.svg" />
 
 - These Are My Stats & Top Langs
