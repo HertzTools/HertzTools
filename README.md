@@ -12,5 +12,3 @@
 
 
 ### Socials
-
-My Youtube : <img src=https://img.shields.io/youtube/channel/subscribers/UCP0weSZE_7NDjIJUNml2FTg?label=Youtube&style=social />
