@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**HertzTools/HertzTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hello!
 -  I’m currently working on Nukers,Massdms,Unfrienders,AccountNukers
 -  I’m currently learning Python,Js
 
