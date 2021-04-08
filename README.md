@@ -9,3 +9,8 @@
 ![HertzTool's stats](https://github-readme-stats.vercel.app/api?username=HertzTools&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HertzTools&show_icons=true&theme=radical)
+
+
+### Socials
+
+My Youtube : <img src=https://img.shields.io/youtube/channel/subscribers/UCP0weSZE_7NDjIJUNml2FTg?label=Youtube&style=social />
