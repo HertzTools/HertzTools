@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--  I’m currently working on Nukers,Massdms,Unfrienders,AccountNukers
--  I’m currently learning Python,Js
+-  I’m currently working: on Nukers,Massdms,Unfrienders,AccountNukers
+-  Learning: <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Python.svg" />
 
 - These Are My Stats & Top Langs
 
