@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 -  I’m currently working: on Nukers,Massdms,Unfrienders,AccountNukers
--  Learning: <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" />
+-  
+### Learning: <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/python.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/js.svg" />
 
 - These Are My Stats & Top Langs
 
