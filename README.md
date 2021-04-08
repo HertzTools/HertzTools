@@ -1,6 +1,7 @@
 ### Hello!
+
 -  I’m currently working on Nukers,Massdms,Unfrienders,AccountNukers
--  I’m currently learning Python,Js
+-  Learning Python,Js
 
 - States & Top Langs Ive Used -
 
