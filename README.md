@@ -1,3 +1,4 @@
+<p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/820743089475682355/829622353897979934/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f383133333431363632.gif" width="100" height="100" /></p>
 ### Hi there ###
 
 - <img height="20" width="20" src="https://unpkg.com/simple-icons@v4/icons/atom.svg" /> I’m currently working: on Nukers,Massdms,Unfrienders,AccountNukers
@@ -12,3 +13,5 @@
 
 
 ### Socials
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCP0weSZE_7NDjIJUNml2FTg?label=Youtube&style=social)
